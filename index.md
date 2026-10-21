@@ -1,5 +1,5 @@
 ---
-title: Welcome to my Nazi!
+title: Welcome to my Nazism!
 ---
 # supreme commander-in-chief - 
 ```bash
